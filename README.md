@@ -23,3 +23,8 @@ The wind speed
 The UV index
 The future forecast will provide 5-day forecast
 
+# Project image
+![Weather App](WeatherApp.gif)
+
+
+

@@ -8,10 +8,17 @@ body {
     
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif sans-serif;
-    
+    color: rgb(88, 86, 86);
+}
+h2{
+    color: rgb(88, 86, 86);
 }
 h3{
     font-weight: bold;
+    color: rgb(88, 86, 86);
+}
+h4{
+    color: rgb(88, 86, 86);
 }
 .forecast{
     
@@ -22,5 +29,4 @@ span{
 }
 li:hover{
     background-color: lightblue;
-    text-decoration: underline;
 }
