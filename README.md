@@ -24,7 +24,7 @@ The UV index
 The future forecast will provide 5-day forecast
 
 # Project image
-![Weather App](WeatherApp.gif)
+![Weather App](./asset/WeatherApp.gif)
 
 
 
